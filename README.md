@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+this is a simple React Greeting app code that will show the greeting according to your machine time.
+
+Functional component used .
+
+React , html , css used. 
+
+## yarn install or npm install 
+ to run this program in your PC you should run npm install inside the folder using command prompt.
+
 ## Available Scripts
 
 In the project directory, you can run:
